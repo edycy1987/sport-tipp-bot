@@ -1,0 +1,6 @@
+nohup: ignoring input
+2026-10-19 21:51:42,025 INFO root: Bot indul…
+2026-10-19 21:51:42,025 INFO aiogram.dispatcher: Start polling
+2026-10-19 21:51:42,161 INFO aiogram.dispatcher: Run polling for bot @VesztesBot id=8661568412 - 'Xeretlek'
+2026-10-19 21:51:51,099 INFO app.engine.pipeline: Generated 106 raw tips
+2026-10-19 21:51:51,301 INFO aiogram.event: Update id=716878276 is handled. Duration 287 ms by bot id=8661568412

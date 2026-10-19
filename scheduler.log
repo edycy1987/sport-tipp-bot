@@ -1,0 +1,5 @@
+nohup: ignoring input
+Traceback (most recent call last):
+  File "/data/data/com.termux/files/home/sport-tipp-bot/scripts/run_scheduler.py", line 5, in <module>
+    from app.config import settings
+ModuleNotFoundError: No module named 'app'
